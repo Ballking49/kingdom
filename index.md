@@ -6,11 +6,6 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
 # 使用eclipse se开发德州扑克
 ## 用到的素材
 ### 54张扑克牌贴图
@@ -19,6 +14,13 @@ Syntax highlighted code block
 # 使用eclipse se开发21点
 ## 用到的素材
 ### 54张扑克牌贴图
+
+Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+
+```markdown
+Syntax highlighted code block
+
+
 - Bulleted
 - List
 
