@@ -19,5 +19,3 @@ TF
 ## Similar projects
 
 
-
-<a href="https://vercel.com/?utm_source=docsifyjsdocs" target="_blank"><img src="docs/_media/vercel_logo.svg" width="100px"></a>
