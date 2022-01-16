@@ -1,4 +1,5 @@
-# 使用eclipse se开发德州扑克
+# Study Records
+## 使用eclipse se开发德州扑克
 ## 用到的素材
 ### 54张扑克牌贴图
 
